@@ -1,0 +1,8 @@
+com\luxoft\training\spring\cloud\ProcessingEntity.class
+com\luxoft\training\spring\cloud\ProcessingRepository.class
+com\luxoft\training\spring\cloud\CardServiceFallback.class
+com\luxoft\training\spring\cloud\CardServiceClient.class
+com\luxoft\training\spring\cloud\ProcessingService.class
+com\luxoft\training\spring\cloud\AccountServiceFallback.class
+com\luxoft\training\spring\cloud\AccountServiceClient.class
+com\luxoft\training\spring\cloud\ProcessingRest.class
